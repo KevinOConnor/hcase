@@ -5,3 +5,5 @@ This case has a top and bottom.  The Haasoscope board should "click"
 into the bottom of the case and the top can also "click on" to the
 bottom.  This case supports both the "full speed usb port" and the
 "usb hi speed" module.
+
+![hcase](docs/img/hcase.jpg)
